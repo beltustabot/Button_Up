@@ -1,0 +1,23 @@
+.search-button {
+    border: 2px solid cyan;
+    background-color:whitesmoke;
+    border-radius:50px;
+    color: cyan;
+    display: block;
+}
+.circle-button {
+    background-color: cyan;
+    color: white;
+    border-radius: 50px;
+    border: 2px solid cyan;
+    display:block
+
+}
+.create{
+    background-color: blue;
+    color:white;
+    border: 3px solid black;
+    box-shadow:3px 3px 3px black; ;
+    display: block;
+
+}
